@@ -252,7 +252,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(inherited)",
-					"$(PROJECT_DIR)/../../../ios/**/**",
+					"$(PROJECT_DIR)/../../../ios/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -270,7 +270,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(inherited)",
-					"$(PROJECT_DIR)/../../../ios/**/**",
+					"$(PROJECT_DIR)/../../../ios/**",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
